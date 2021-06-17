@@ -1,1 +1,6 @@
-#requiered pacages for running
+click
+
+redis
+requests
+logging
+

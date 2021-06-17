@@ -16,7 +16,6 @@ global r
 
 WORKERS = {}
 WORKER_ID = 0
-#PETITION_ID = 0
 DELIMITER = ','
 
 
@@ -108,7 +107,6 @@ def delete_worker(id):
 
 def list_workers():
 	global WORKERS
-	#print (WORKERS)
 	return str(WORKERS)
 
 

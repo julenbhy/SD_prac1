@@ -2,6 +2,7 @@
 
 import click
 import xmlrpc.client
+
 global proxy
 
 # Definicion parametros entrada y funcion cli() para gestionar las diferentes RPC sobre el master
