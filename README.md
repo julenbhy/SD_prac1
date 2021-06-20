@@ -7,7 +7,7 @@
 
 ## EXECUTION:
 
-```First, you must run the start_server.sh at the HTTP_server directory.```
+```First, you must run the start_server.sh at the HTTP_server directory. (you must be inside the directory in order to detect properly the files)```
 
 ```Then, start the cluster executing the master.py program.```
 
